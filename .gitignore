@@ -1,0 +1,18 @@
+.venv/
+venv/
+node_modules/
+__pycache__/
+.env
+*.env
+.DS_Store
+*.mp4
+*.mov
+*.zip
+*.pt
+cg*
+*.c
+RESUME.pdf
+human detection dataset/
+human detection dataset-1/
+runs/
+smartshop_outputs/
